@@ -3,7 +3,7 @@
         "driver" => "mysql",
         "host" => "localhost",
         "user" => "root",
-        "pass" => "progloriaetpatria",
+        "pass" => "",
         "database" => "clientesmvc",
         "charset" => "UTF-8"
     )
